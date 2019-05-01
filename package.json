@@ -61,7 +61,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "diff2html": "^2.7.0",
+    "diff2html": "2.7.0",
     "difflib": "^0.2.4",
     "prop-types": "^15.7.2",
     "recompose": "^0.30.0"
