@@ -100,7 +100,7 @@
     "rollup-plugin-node-builtins": "^2.1.2",
     "rollup-plugin-node-resolve": "^4.0.1",
     "rollup-plugin-size-snapshot": "^0.8.0",
-    "uglify-js": "^3.4.10"
+    "uglify-js": "^3.5.11"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0",
