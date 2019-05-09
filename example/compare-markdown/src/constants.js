@@ -1,3 +1,3 @@
-export const TITLE = 'Algebraic-Effects-in-JavaScript-part-1.md';
-export const CURRENT = 'https://gist.githubusercontent.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53/raw/09453589bf8ecf8d175b3da4ceda5a62511ba7c0/algebraic-effects-series-1.md';
-export const PAST = 'https://gist.githubusercontent.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53/raw/3b43b2069f83926c952553bb7609d4b9d6fc8544/algebraic-effects-series-1.md';
+export const TITLE = 'Git Diff Example';
+export const CURRENT = 'https://gist.githubusercontent.com/anandsingh1311/84341120db36ad5d03a61793dea4cd4d/raw/fdc37e4025327c335efb527b03061191b2558a2e/Sample_Text1.txt';
+export const PAST = 'https://gist.githubusercontent.com/anandsingh1311/33b3fefc43e6579ba48d7cf544c0892b/raw/336affa44df84a1624bfc60e9b65617097892593/Sample_Text2.txt';
